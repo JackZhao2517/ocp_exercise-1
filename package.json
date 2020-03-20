@@ -1,0 +1,17 @@
+{
+  "name": "exercise-1",
+  "version": "1.0.0",
+  "description": "this nodejs koa project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "yuanbing@cn.ibm.com",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
